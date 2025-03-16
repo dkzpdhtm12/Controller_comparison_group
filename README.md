@@ -23,7 +23,10 @@
 
 Nav2 오픈소스는 기본 값으로 DWB 컨트롤러로 Planer를 따라간다.
 
-[DWB video](https://github.com/dkzpdhtm12/Navigation2_test/assets/DWB.mp4)
+
+https://github.com/user-attachments/assets/1773744b-04b1-434b-92f2-a111beb875c9
+
+
 
 ### Nav 개발자라면 한 번쯤 본 친구
 
@@ -40,7 +43,9 @@ angular velocity 값이 빠르면 빠를 수록 커브를 돌다 장애물에 �
 
 현재는 유지보수가 줄어든 것으로 알려진 TEB 컨트롤러
 
-[TEB video](/TEB.mp4)
+
+https://github.com/user-attachments/assets/efab79c9-251a-4e0f-b45d-37ff8f9350f5
+
 
 ### 후진을 위한 컨트롤러?
 
@@ -61,7 +66,11 @@ TEB 컨트롤러는 특이하게 목적지(Goal)에 도착하기 전에 후방�
 
 경험상 DWB의 장점과 TEB의 장점을 합쳐놓은 무언가..의 상위호환 느낌이었다.
 
-[MPPI video](/MPPI.mp4)
+
+
+https://github.com/user-attachments/assets/1a849fc4-90ca-43d4-a0f3-2ace3eeffc96
+
+
 
 ### 차세대 컨트롤러?
 
