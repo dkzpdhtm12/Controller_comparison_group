@@ -23,7 +23,7 @@
 
 Nav2 오픈소스는 기본 값으로 DWB 컨트롤러로 Planer를 따라간다.
 
-[DWB video]([/DWB.mp4](https://github.com/dkzpdhtm12/Controller_comparison_group/blob/main/DWB.mp4))
+[DWB video](https://github.com/dkzpdhtm12/Navigation2_test/assets/DWB.mp4)
 
 ### Nav 개발자라면 한 번쯤 본 친구
 
